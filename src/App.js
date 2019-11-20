@@ -12,7 +12,7 @@ class App extends Component {
         return (
             <div className="App">
                 <p style={{color: this.state.color}}>heading 1</p>
-                `12`12`12
+                `12`12`1212312
                 <Exam color={this.state.color} />
             </div>
         );
